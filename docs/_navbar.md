@@ -1,3 +1,3 @@
-- [文字API](wps/)
-- [表格API](et/)
-- [演示API](ppt/)
+- [文字API](js-docsify/wps/)
+- [表格API](js-docsify/et/)
+- [演示API](js-docsify/ppt/)
